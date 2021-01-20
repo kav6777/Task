@@ -6,6 +6,8 @@ public class Task1 {
 		int a=500;
 		System.out.println(a);
 		System.out.println("a"+a);
+		int b=100;
+		System.out.println(b);
 
 	}
 
