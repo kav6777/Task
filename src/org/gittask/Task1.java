@@ -7,6 +7,9 @@ public class Task1 {
 		System.out.println(a);
 		System.out.println("a"+a);
 		String s = "done";
+		int b=100;
+		System.out.println(b);
+
 		
 
 	}
